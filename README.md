@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ### Step 3: Run the Project
 To start the prediction engine, run:
-
+```bash
 python main.py
 
 
